@@ -1,0 +1,242 @@
+{
+  "DB00471": {
+    "image": "montelukast(7).png",
+    "image_sha256": "3aaca95d75434c5dd6f2720d71765b9b3ea17e15c0d0c5113ec3e049ee242a9a",
+    "hbond_annotations": "Thr873: carboxilato",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB06959": {
+    "image": "(2S)-1-(3H-Indol-3-yl)-3-{[5-(6-isoquinolinyl)-3-pyridinyl]oxy}-2-propanamine(1).png",
+    "image_sha256": "bfed8b8f402731b1834cafd9c914c7fd199f76c840c55037d10e9a6f1f976487",
+    "hbond_annotations": "Glu830: amina",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB06977": {
+    "image": "(2S)-1-{[5-(1H-Indazol-5-yl)-3-pyridinyl]oxy}-3-(7aH-indol-3-yl)-2-propanamine(1).png",
+    "image_sha256": "223a39badfa40a13e4a6eacf897b0ffc318329d7c38d75d9628a225f16a9de86",
+    "hbond_annotations": "Sin flechas de enlace de hidrógeno visibles",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB06907": {
+    "image": "2-(2,6-DICHLOROPHENYL)-1,3-BENZOXAZOLE-6-CARBOXYLIC ACID(1).png",
+    "image_sha256": "66cd8b0af16f91da26c52e2ff7f5486e28c46be98600b7a453eb7e6605270507",
+    "hbond_annotations": "Tyr869: carboxilato",
+    "other_annotations": "Anotación naranja Asp946/Cl; geometría no verificada",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB02936": {
+    "image": "4-(1-Benzyl-3-Carbamoylmethyl-2-Methyl-1h-Indol-5-Yloxy)-Butyric Acid(1).png",
+    "image_sha256": "c9f290e168c1fdcb81c7d884dcec124ae8a4c4da6ea6861620461ed472ef811f",
+    "hbond_annotations": "Tyr869: NH2",
+    "other_annotations": "Anotación iónica Lys821/carboxilato",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB01988": {
+    "image": "6((S)-3-Benzylpiperazin-1-Yl)-3-(Naphthalen-2-Yl)-4-(Pyridin-4-Yl)Pyrazine(1).png",
+    "image_sha256": "be549d05f2b23ac77606b7e3667721f49cc13b6ce6d9ae8e2b07e1ac05555de6",
+    "hbond_annotations": "Sin flechas de enlace de hidrógeno visibles",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB03471": {
+    "image": "6-phenyl-4(R)-(7-phenyl-heptanoylamino)-hexanoic acid(1).png",
+    "image_sha256": "61c4bc43a27a2b2c8f3d552422a10ebb70af2a79b39f66d7b23800ac8cd5655f",
+    "hbond_annotations": "Lys821: carbonilo de amida",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB01102": {
+    "image": "arbutamine(1).png",
+    "image_sha256": "26568e67fda5c96cf4c5ebcb3afd70dabc43654e9e3bc96914bcf9d0628cfc25",
+    "hbond_annotations": "Tyr869: OH fenólico; Glu795: OH; SEP969: OH fenólico",
+    "other_annotations": "Mg mostrado sin conexión al ligando",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente; captura image(20261101-224033).png muestra la entrada 6F7B - 5-removed waters",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB01076": {
+    "image": "atorvastatine(4).png",
+    "image_sha256": "fb5b351ea2340c827fdc26fba721e020fe7c1eb1da01dcc4eaa9a5ea10af377b",
+    "hbond_annotations": "Glu795: carboxilato; Lys821: carbonilo",
+    "other_annotations": "La línea de Lys821 pasa por Gly866: no se cuenta como enlace de Gly866",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB06769": {
+    "image": "bendamustine(1).png",
+    "image_sha256": "bd637b22f355e6484189ffdc8d2f2d66d93ddeef08b15d81d23d0442cc80775e",
+    "hbond_annotations": "Asp946: N del anillo",
+    "other_annotations": "Anotación iónica Lys821/carboxilato",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB00861": {
+    "image": "diflunisal(4).png",
+    "image_sha256": "de1cd7acd36b6036808db50cc59bd0b64f255be6c342bc16337c4026696f1b59",
+    "hbond_annotations": "Tyr869: carboxilato",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB01288": {
+    "image": "fenoterol(5).png",
+    "image_sha256": "8db59ae0ff17d5ff5515e2aa0aa1d9f82c93f38109caa2a469b8c97a774b97dc",
+    "hbond_annotations": "Tyr869: OH fenólico; Asp946: OH; Glu830: OH",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB07118": {
+    "image": "hymecromone(1).png",
+    "image_sha256": "9d94c9f3915621c93c3df08af4616b4d15d1aa13650a67480e402f99c8cbb6b2",
+    "hbond_annotations": "Tyr869: OH; Glu867: OH",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB01088": {
+    "image": "iloprost(5).png",
+    "image_sha256": "e9ecaab4c638bfdd4e2e54e72132e0662e1242d618fb7af0961907820d07bc03",
+    "hbond_annotations": "Thr873: carboxilato; Tyr869: OH",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB00224": {
+    "image": "indinavir(5).png",
+    "image_sha256": "69f0e1ebec0ca9399b8c8de3d5e00929a6849e14742410c2e79506a63d452891",
+    "hbond_annotations": "Lys821: OH; Asp946: carbonilo y NH cargado",
+    "other_annotations": "También anotación iónica hacia Asp946; no sumar como evidencia independiente",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente; captura image(20261101-224106).png muestra la entrada 6F7B - 5-removed waters",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB03285": {
+    "image": "isoliquiritigenin(1).png",
+    "image_sha256": "4d49efb4abfabab392a1d7952f014189a1d438a836a8ed72c5d740c2ad4f1939",
+    "hbond_annotations": "Tyr869: OH; Lys821: carbonilo; Asp946: OH; Glu830: OH",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB01259": {
+    "image": "lapatinib(4).png",
+    "image_sha256": "4cd4910ba3e9501741dee0d7f6bc9644460e4e0c10a552a15fe44eaf83710ecc",
+    "hbond_annotations": "Glu795: O de sulfona",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB04862": {
+    "image": "merimepodib(1).png",
+    "image_sha256": "71def3e07654449cb6416e57c66ff14ea3537d5141da0bd7f591ff92625cf04c",
+    "hbond_annotations": "Asp921: NH de amida",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente; captura image(20261101-224307).png muestra la entrada 6F7B - 5-removed waters",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB05779": {
+    "image": "oglufanide(5).png",
+    "image_sha256": "55faff786d8a8019df6d3060aa4595aefe03b6438406a7087587c05bd6703bf5",
+    "hbond_annotations": "Tyr869: carboxilato; Asp946: carboxilato; Lys821: carboxilato",
+    "other_annotations": "También anotación iónica con Lys821",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB02568": {
+    "image": "peldesine(1).png",
+    "image_sha256": "087a2da403a8af76914762b7736aabd0ca6ec2d3e9e6832443d159c03fd27a9b",
+    "hbond_annotations": "Tyr869: carbonilo; Glu867: NH",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB06814": {
+    "image": "Protokylol(1).png",
+    "image_sha256": "00debb1b7654192bec072b3648320431a1d7fa77db701a81b22f81268cd249b9",
+    "hbond_annotations": "Tyr869: O éter; Asp921: NH; Asn922: OH; Gly796: OH; SEP969: OH",
+    "other_annotations": "También enlaces mediados por agua representados",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente; captura image(20261101-224215).png muestra la entrada 6F7B - 5-removed waters",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB04760": {
+    "image": "PYRIMIDINE-4,6-DICARBOXYLIC ACID BIS-(4-FLUORO-3-METHYL-BENZYLAMIDE)(1).png",
+    "image_sha256": "d2f472894aa8b15bdb600f165e876b31a287ea5185da99fbe0908904a681d7d6",
+    "hbond_annotations": "Asp946: carbonilo",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB06638": {
+    "image": "quarfloxin(4).png",
+    "image_sha256": "db1a8c2530f76f203bbf01d87d73733359fdab97e943d0f4dd2c741b1208c94f",
+    "hbond_annotations": "Leu793: NH del ligando",
+    "other_annotations": "No atribuir el enlace a la cadena lateral de Leu",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente; captura image(20261101-224344).png muestra la entrada 6F7B - 5-removed waters",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB04216": {
+    "image": "quercetin(5).png",
+    "image_sha256": "ef44fffbc1dcc74182ae1ba0b3847f784a925850fee361d486b36332fe6ad47d",
+    "hbond_annotations": "Tyr869: O fenólico cargado; Glu830: OH",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB06555": {
+    "image": "siramesine(5).png",
+    "image_sha256": "7ca820fd2a7b02bb458f2fb90259827156cf4575f7cd6972b96ece1331185270",
+    "hbond_annotations": "Sin flechas de enlace de hidrógeno visibles",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB06429": {
+    "image": "Talnetant(1).png",
+    "image_sha256": "1066b4e775686bd2a436176003ecc2d60c9d94ee503506af74f67c96d93fccd4",
+    "hbond_annotations": "Sin flechas de enlace de hidrógeno visibles",
+    "other_annotations": "Lys821: anotación iónica al O y catión–π al anillo",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB06240": {
+    "image": "tariquidar(1).png",
+    "image_sha256": "053b66f8024a40095e2f1ca190bd5c9f702b563aa089b16ad3e6564ee9ba08fc",
+    "hbond_annotations": "Sin flechas de enlace de hidrógeno visibles",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente; captura image(20261101-224438).png muestra la entrada 6F7B - 5-removed waters",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB04571": {
+    "image": "trioxsalen(1).png",
+    "image_sha256": "1b56d4fb831c408fea881244f7c2f5966562acec77db6fa36100ab20c6c225a3",
+    "hbond_annotations": "Sin flechas de enlace de hidrógeno visibles",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB06235": {
+    "image": "vadimezan(3).png",
+    "image_sha256": "7aebb6ffe8c38a3dd1f24c39da491a239faeac6aeb8cc5dfe9388de3d39dbafd",
+    "hbond_annotations": "Sin flechas de enlace de hidrógeno visibles",
+    "other_annotations": "Sin otra anotación específica transcrita",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  },
+  "DB04879": {
+    "image": "vatalanib(5).png",
+    "image_sha256": "e33e94c2cbf66cf94cf21aa629b164d28e05dd3d60b33be0102d5ae72aaff4db",
+    "hbond_annotations": "Sin flechas de enlace de hidrógeno visibles",
+    "other_annotations": "Anotación naranja Cl/Tyr869; no se afirma enlace de halógeno validado",
+    "provenance": "Diagrama aportado en el conjunto identificado como 6F7B; no auditoría atómica independiente",
+    "structural_limit": "Una pose 2D; geometría y persistencia en 4QPM/5DMZ no evaluadas por este script"
+  }
+}

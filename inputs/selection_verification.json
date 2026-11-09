@@ -1,0 +1,325 @@
+{
+  "initial30_exact_order_match_to_workbook": true,
+  "archived_scores_match_selector": true,
+  "nested_subsets": true,
+  "categories": {
+    "C_reserva_ATP_like": 75,
+    "B_revisar": 82,
+    "A_prioritario": 25,
+    "D_excluir": 1
+  },
+  "revised30_categories": {
+    "B_revisar": 8,
+    "A_prioritario": 22
+  },
+  "removed": [
+    "DB01136",
+    "DB01908",
+    "DB02336",
+    "DB03591",
+    "DB05416",
+    "DB05552"
+  ],
+  "added": [
+    "DB01988",
+    "DB02936",
+    "DB03471",
+    "DB04760",
+    "DB06907",
+    "DB06959"
+  ],
+  "top10": [
+    "Indinavir",
+    "Montelukast",
+    "Atorvastatin",
+    "Iloprost",
+    "Lapatinib",
+    "Peldesine",
+    "Vatalanib",
+    "Oglufanide",
+    "Vadimezan",
+    "Talnetant"
+  ],
+  "top3": [
+    "Montelukast",
+    "Atorvastatin",
+    "Vatalanib"
+  ],
+  "mmgbsa": {
+    "unique_pairs": 90,
+    "compounds": 30,
+    "duplicate_pairs_removed": 9,
+    "ranking": [
+      {
+        "drugbank_id": "DB06638",
+        "name": "Quarfloxin",
+        "mean_mmgbsa": -85.58970938701411,
+        "4QPM": -80.52160187725349,
+        "5DMZ": -79.72395907995633,
+        "6F7B": -96.5235672038325,
+        "rank": 1
+      },
+      {
+        "drugbank_id": "DB04760",
+        "name": "PYRIMIDINE-4,6-DICARBOXYLIC ACID BIS-(4-FLUORO-3-METHYL-BENZYLAMIDE)",
+        "mean_mmgbsa": -82.93637388304585,
+        "4QPM": -71.54183341323005,
+        "5DMZ": -70.24125424806516,
+        "6F7B": -107.02603398784231,
+        "rank": 2
+      },
+      {
+        "drugbank_id": "DB01259",
+        "name": "Lapatinib",
+        "mean_mmgbsa": -78.42785033382886,
+        "4QPM": -80.02404926900635,
+        "5DMZ": -64.13242782227826,
+        "6F7B": -91.12707391020194,
+        "rank": 3
+      },
+      {
+        "drugbank_id": "DB06240",
+        "name": "Tariquidar",
+        "mean_mmgbsa": -77.72550186294636,
+        "4QPM": -83.47839963775004,
+        "5DMZ": -84.72228879764407,
+        "6F7B": -64.97581715344495,
+        "rank": 4
+      },
+      {
+        "drugbank_id": "DB00471",
+        "name": "Montelukast",
+        "mean_mmgbsa": -76.91600876892092,
+        "4QPM": -91.72109520384402,
+        "5DMZ": -44.527052633555286,
+        "6F7B": -94.49987846936347,
+        "rank": 5
+      },
+      {
+        "drugbank_id": "DB06977",
+        "name": "(2S)-1-{[5-(1H-Indazol-5-yl)-3-pyridinyl]oxy}-3-(7aH-indol-3-yl)-2-propanamine",
+        "mean_mmgbsa": -76.75632174819536,
+        "4QPM": -65.64761191253638,
+        "5DMZ": -71.22874071204205,
+        "6F7B": -93.39261262000764,
+        "rank": 6
+      },
+      {
+        "drugbank_id": "DB06555",
+        "name": "Siramesine",
+        "mean_mmgbsa": -71.73675172896522,
+        "4QPM": -66.24429604440775,
+        "5DMZ": -64.3340744572215,
+        "6F7B": -84.63188468526641,
+        "rank": 7
+      },
+      {
+        "drugbank_id": "DB04879",
+        "name": "Vatalanib",
+        "mean_mmgbsa": -71.5512863672205,
+        "4QPM": -62.78390720212883,
+        "5DMZ": -49.142301087198575,
+        "6F7B": -102.7276508123341,
+        "rank": 8
+      },
+      {
+        "drugbank_id": "DB06959",
+        "name": "(2S)-1-(3H-Indol-3-yl)-3-{[5-(6-isoquinolinyl)-3-pyridinyl]oxy}-2-propanamine",
+        "mean_mmgbsa": -71.51757375753004,
+        "4QPM": -74.89271355031633,
+        "5DMZ": -60.83744555355952,
+        "6F7B": -78.82256216871428,
+        "rank": 9
+      },
+      {
+        "drugbank_id": "DB01988",
+        "name": "6((S)-3-Benzylpiperazin-1-Yl)-3-(Naphthalen-2-Yl)-4-(Pyridin-4-Yl)Pyrazine",
+        "mean_mmgbsa": -70.83728082509758,
+        "4QPM": -67.84070442210032,
+        "5DMZ": -53.1829271812494,
+        "6F7B": -91.48821087194301,
+        "rank": 10
+      },
+      {
+        "drugbank_id": "DB01088",
+        "name": "Iloprost",
+        "mean_mmgbsa": -70.13886916288538,
+        "4QPM": -64.19263492541359,
+        "5DMZ": -58.342011025135434,
+        "6F7B": -87.88196153810713,
+        "rank": 11
+      },
+      {
+        "drugbank_id": "DB04862",
+        "name": "Merimepodib",
+        "mean_mmgbsa": -66.21154643428235,
+        "4QPM": -74.53661274862316,
+        "5DMZ": -64.6126431838893,
+        "6F7B": -59.4853833703346,
+        "rank": 12
+      },
+      {
+        "drugbank_id": "DB04571",
+        "name": "Trioxsalen",
+        "mean_mmgbsa": -61.83367289158317,
+        "4QPM": -69.61028926361905,
+        "5DMZ": -51.221892826926705,
+        "6F7B": -64.66883658420375,
+        "rank": 13
+      },
+      {
+        "drugbank_id": "DB03285",
+        "name": "Isoliquiritigenin",
+        "mean_mmgbsa": -60.533531728478316,
+        "4QPM": -57.151770137248604,
+        "5DMZ": -58.91329476332248,
+        "6F7B": -65.53553028486385,
+        "rank": 14
+      },
+      {
+        "drugbank_id": "DB01102",
+        "name": "Arbutamine",
+        "mean_mmgbsa": -60.15180364362762,
+        "4QPM": -74.85110892484772,
+        "5DMZ": -55.82640540096145,
+        "6F7B": -49.77789660507369,
+        "rank": 15
+      },
+      {
+        "drugbank_id": "DB03471",
+        "name": "6-phenyl-4(R)-(7-phenyl-heptanoylamino)-hexanoic acid",
+        "mean_mmgbsa": -60.08979216911333,
+        "4QPM": -70.1880448557913,
+        "5DMZ": -56.581076043305075,
+        "6F7B": -53.500255608243606,
+        "rank": 16
+      },
+      {
+        "drugbank_id": "DB06429",
+        "name": "Talnetant",
+        "mean_mmgbsa": -59.958926559434985,
+        "4QPM": -71.6913259943467,
+        "5DMZ": -65.34346911933426,
+        "6F7B": -42.841984564624,
+        "rank": 17
+      },
+      {
+        "drugbank_id": "DB06769",
+        "name": "Bendamustine",
+        "mean_mmgbsa": -57.1850681560148,
+        "4QPM": -60.21570953311857,
+        "5DMZ": -41.720777686126894,
+        "6F7B": -69.61871724879893,
+        "rank": 18
+      },
+      {
+        "drugbank_id": "DB06235",
+        "name": "Vadimezan",
+        "mean_mmgbsa": -53.137325105296135,
+        "4QPM": -62.51297925791732,
+        "5DMZ": -44.841310641848395,
+        "6F7B": -52.057685416122695,
+        "rank": 19
+      },
+      {
+        "drugbank_id": "DB01076",
+        "name": "Atorvastatin",
+        "mean_mmgbsa": -53.13040737639858,
+        "4QPM": -80.57364917293671,
+        "5DMZ": -40.27389176662473,
+        "6F7B": -38.5436811896343,
+        "rank": 20
+      },
+      {
+        "drugbank_id": "DB02936",
+        "name": "4-(1-Benzyl-3-Carbamoylmethyl-2-Methyl-1h-Indol-5-Yloxy)-Butyric Acid",
+        "mean_mmgbsa": -52.45391850874088,
+        "4QPM": -59.47475510541335,
+        "5DMZ": -55.84200180117841,
+        "6F7B": -42.04499861963086,
+        "rank": 21
+      },
+      {
+        "drugbank_id": "DB06814",
+        "name": "Protokylol",
+        "mean_mmgbsa": -51.78038741809056,
+        "4QPM": -58.831965886936814,
+        "5DMZ": -51.92914552076945,
+        "6F7B": -44.58005084656543,
+        "rank": 22
+      },
+      {
+        "drugbank_id": "DB01288",
+        "name": "Fenoterol",
+        "mean_mmgbsa": -51.29031131217744,
+        "4QPM": -27.132530572262112,
+        "5DMZ": -52.6546638287964,
+        "6F7B": -74.0837395354738,
+        "rank": 23
+      },
+      {
+        "drugbank_id": "DB06907",
+        "name": "2-(2,6-DICHLOROPHENYL)-1,3-BENZOXAZOLE-6-CARBOXYLIC ACID",
+        "mean_mmgbsa": -49.77406274985575,
+        "4QPM": -63.5239257690464,
+        "5DMZ": -23.41477415695408,
+        "6F7B": -62.38348832356678,
+        "rank": 24
+      },
+      {
+        "drugbank_id": "DB04216",
+        "name": "Quercetin",
+        "mean_mmgbsa": -48.015039098255635,
+        "4QPM": -57.7922739755013,
+        "5DMZ": -38.42186044754817,
+        "6F7B": -47.830982871717424,
+        "rank": 25
+      },
+      {
+        "drugbank_id": "DB07118",
+        "name": "Hymecromone",
+        "mean_mmgbsa": -46.77725257680504,
+        "4QPM": -52.959157170053004,
+        "5DMZ": -30.402193341431484,
+        "6F7B": -56.97040721893063,
+        "rank": 26
+      },
+      {
+        "drugbank_id": "DB02568",
+        "name": "Peldesine",
+        "mean_mmgbsa": -45.009587110379776,
+        "4QPM": -45.862544152254486,
+        "5DMZ": -39.977816207036085,
+        "6F7B": -49.18840097184875,
+        "rank": 27
+      },
+      {
+        "drugbank_id": "DB00224",
+        "name": "Indinavir",
+        "mean_mmgbsa": -43.31003699827003,
+        "4QPM": -49.43899190354023,
+        "5DMZ": -55.232992083589124,
+        "6F7B": -25.25812700768074,
+        "rank": 28
+      },
+      {
+        "drugbank_id": "DB00861",
+        "name": "Diflunisal",
+        "mean_mmgbsa": -41.08701343897519,
+        "4QPM": -51.2629204873374,
+        "5DMZ": -32.762372858427625,
+        "6F7B": -39.23574697116055,
+        "rank": 29
+      },
+      {
+        "drugbank_id": "DB05779",
+        "name": "Oglufanide",
+        "mean_mmgbsa": -31.578290866760653,
+        "4QPM": -49.38759946840764,
+        "5DMZ": -17.868077082095624,
+        "6F7B": -27.479196049778693,
+        "rank": 30
+      }
+    ]
+  }
+}
